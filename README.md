@@ -144,7 +144,7 @@ PostgreSQL / MongoDB
 
 ✅ Modular and extensible architecture
 
-📊 Use Cases
+ Use Cases
 
 Enterprise Hybrid Cloud Optimization
 
@@ -156,7 +156,7 @@ AI-assisted Systems Management
 
 DevOps Automation & Monitoring
 
-📈 Future Enhancements
+ Future Enhancements
 
 Integration with OpenShift
 
@@ -168,7 +168,7 @@ Security & compliance policy engine
 
 Distributed storage optimization (SAN/NAS simulations)
 
-🏢 Enterprise Relevance
+ Enterprise Relevance
 
 This project aligns with IBM Systems & Cloud Software principles:
 
